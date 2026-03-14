@@ -4,7 +4,7 @@
 
 ![Alpha Release](https://img.shields.io/badge/TWRP-Alpha%20Released-brightgreen?style=for-the-badge&logo=android)
 ![Status](https://img.shields.io/badge/Custom%20ROM-In%20Progress-orange?style=for-the-badge)
-![Year](https://img.shields.io/badge/Target-End%20of%202025-blue?style=for-the-badge)
+![Year](https://img.shields.io/badge/Target-End%20of%202026-blue?style=for-the-badge)
 
 </div>
 
