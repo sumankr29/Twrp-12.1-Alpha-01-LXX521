@@ -48,10 +48,11 @@ A sincere thank you to:
 - 👀 **Watch** for release announcements
 - 💬 Open an **Issue** for bugs or questions
 
-<div align="center">
+### 🔗 Support & Downloads
+
 [![Telegram](https://img.shields.io/badge/Telegram-Support%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/lava_play_ultra)
 [![SourceForge](https://img.shields.io/badge/SourceForge-Download-orange?style=for-the-badge&logo=sourceforge)]()
-</div>
+
 
 ---
 
