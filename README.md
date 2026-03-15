@@ -1,4 +1,4 @@
-# 🎉 Custom TWRP & ROM Project
+# 🎉 Custom Recovery & ROM Project for device Lava Play Ultra 5G- LXX521
 
 <div align="center">
 
