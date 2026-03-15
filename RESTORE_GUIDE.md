@@ -49,14 +49,13 @@ After downloading all three files, **extract them all into one single folder**:
 
 1. Open the **SP_Flash_Tool** folder and launch **SPFlashToolV6**
 
-![SP Flash Tool Executable](images/spflash-exe.png)
+![SP Flash Tool - Empty Window](images/spflash-empty.png)
 
 2. In the **Download-XML** section, click **Choose**
 3. Navigate to your extracted firmware folder
 4. Open the **`download_agent`** folder at the top and select the **`flash`** file
 5. The partition list will populate automatically
 
-![SP Flash Tool - Empty Window](images/spflash-empty.png)
 
 ![SP Flash Tool - Partitions Loaded](images/spflash-loaded.png)
 
