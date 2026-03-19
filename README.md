@@ -1,63 +1,76 @@
-# 🎉 Custom Recovery & ROM Project for device Lava Play Ultra 5G- LXX521
+# 🛠️ TWRP/Orange fox Custom Recovery — Lava Play Ultra 5G (LXX521)
 
 <div align="center">
 
-![Alpha Release](https://img.shields.io/badge/TWRP-Alpha%20Released-brightgreen?style=for-the-badge&logo=android)
-![Status](https://img.shields.io/badge/Custom%20ROM-In%20Progress-orange?style=for-the-badge)
-![Year](https://img.shields.io/badge/Target-End%20of%202026-blue?style=for-the-badge)
+![Device](https://img.shields.io/badge/Device-Lava%20Play%20Ultra%205G-red?style=for-the-badge&logo=android)
+![Recovery](https://img.shields.io/badge/Recovery-TWRP-blue?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-15-green?style=for-the-badge&logo=android)
+![Chipset](https://img.shields.io/badge/Chipset-MT6878-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-## ✅ TWRP — Alpha Release
+## 📱 Device Info
 
-We are excited to announce the **successful alpha release** of our custom TWRP build! 🚀
-
-This milestone wouldn't have been possible without the incredible support from the open-source community. A huge **thank you** to all the GitHub contributors who provided and maintained the **device tree** — your work laid the foundation for everything here.
-
-> 💬 *"Community-driven development at its finest."*
-
----
-
-## 🔨 What's Next — Custom ROM Roadmap
-
-We are now actively working on building **custom ROMs** for this device. Here's our planned release order for **end of 2026**:
-
-| # | ROM | Status |
-|---|-----|--------|
-| 1 | 🟢 **LineageOS** | 🔧 In Progress |
-| 2 | 🟡 **Voltage OS** | ⏳ Planned |
-| 3 | 🔵 **Project Infinity X** | ⏳ Planned |
-
-> 📅 **Target**: All builds planned for release by **end of 2026**.
+| Feature | Details |
+|---|---|
+| Device | Lava Play Ultra 5G |
+| Model | LXX521 |
+| Chipset | MediaTek MT6878 |
+| Architecture | ARM64 |
+| Resolution | 1080 × 2400 |
+| Android | 15 |
 
 ---
 
-## 🙏 Credits & Acknowledgements
+## ✅ Working Features
 
-A sincere thank you to:
-
-- User 'fahimfrk' for device tree[https://github.com/fahimfrk/lxx521_Dimensity7300]
+| Feature | Status |
+|---|---|
+| Touch | ✅ Working |
+| Display | ✅ Working |
+| ADB | ✅ Working |
+| ADB Sideload | ✅ Working |
+| MTP | ✅ Working |
+| Storage Mount / Unmount | ✅ Working |
+| .zip Flashing | ✅ Working |
+| Backup / Restore | ✅ Working |
+| OTG | ✅ Working |
 
 ---
 
-## 📢 Stay Updated
+## 📥 Downloads
 
-- ⭐ **Star** this repository to stay notified
-- 👀 **Watch** for release announcements
-- 💬 Open an **Issue** for bugs or questions
+Get the latest build from the [Releases](../../releases/latest) page.
 
-### 🔗 Support & Downloads
+---
+
+## 🚀 Flash Instructions
+
+Refer to the full flashing guide here:
+👉 [FLASH_GUIDE.md](./FLASH_GUIDE.md)
+
+---
+
+## 💬 Bug Reports & Support
+
+Found a bug? Have a question? Join the Telegram support channel and let us know:
 
 [![Telegram](https://img.shields.io/badge/Telegram-Support%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/lava_play_ultra)
-[![SourceForge](https://img.shields.io/badge/SourceForge-Download-orange?style=for-the-badge&logo=sourceforge)]()
 
+> Please include your device details, what you were doing, and a screenshot or log when reporting a bug. It helps a lot!
+
+---
+
+## ⚠️ Disclaimer
+
+Flashing custom recovery carries risk. I am not responsible for any damage, data loss, or bricks caused to your device. Proceed at your own risk.
 
 ---
 
 <div align="center">
 
-Made with ❤️ by the kotler-m2, for the community.
+Made with ❤️ by kotler-m2, for the community.
 
 </div>
